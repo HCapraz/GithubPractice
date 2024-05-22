@@ -6,5 +6,7 @@ public class C01 {
 
         //Hikmet değişiklik yaptı
 
+        System.out.println("hkmt");
+
     }
 }

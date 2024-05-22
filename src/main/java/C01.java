@@ -8,5 +8,7 @@ public class C01 {
 
         System.out.println("hkmt");
 
+        //çakışma
+
     }
 }

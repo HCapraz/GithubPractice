@@ -8,7 +8,11 @@ public class C01 {
 
         System.out.println("hkmt");
 
+
         System.out.println( "");
+
+        //çakışma
+
 
     }
 }
